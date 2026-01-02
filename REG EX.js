@@ -101,4 +101,16 @@
 
 // console.log(jennyStr.match(myRegex));
 
-//? problem////
+//!-----
+
+//? reduce function in a js
+//*reduce() is an array method that processes elements sequentially and reduces them into a single value.
+
+// let num = [1, 2, 3, 4, 5, 6];
+// let sum = num.reduce((previous, current,0) => previous + current);
+// console.log(sum);
+
+//*another example
+let num = [1, 2, 3, 4, 5, 6];
+let product = num.reduce((previous, current) => previous * current);
+console.log(product);

@@ -40,7 +40,7 @@
 // let twinkleStar = "Twinkle, twinkle, little star";
 // let starRegex = /twinkle/gi;
 // let result = twinkleStar.match(starRegex);
-//!-----
+//!-----------
 //?Match Anything with Wildcard Period
 // let humStr = "i will hum a song";
 // let hugStr = "bear hug";
@@ -54,7 +54,7 @@
 // let unRegex = /.un/;
 // let result = unRegex.test(exampleStr);
 
-//!-----
+//!----------
 //? Match Single Character with Multiple Possibilities
 // let bigStr = "big";
 // let bagStr = "bag";
@@ -75,7 +75,7 @@
 // let result = quoteSample.match(vowelRegex); // Change this line
 
 // console.log(result);
-//!-----
+//!---------
 //? Match Letters of the Alphabet
 // let catStr = "cat";
 // let batStr = "bat";
@@ -93,7 +93,7 @@
 // let result = quoteSample.match(alphabetRegex); // Change this line
 // console.log(result);
 
-//!-----
+//!---------
 
 //? Match Numbers and Letters of the Alphabet
 // let jennyStr = "Jenny8675309";
@@ -101,4 +101,4 @@
 
 // console.log(jennyStr.match(myRegex));
 
-//!-------------
+//!----------------

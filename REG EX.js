@@ -2,7 +2,7 @@
 // let testStr = "freecodeCamp";
 // let testRegx = /code/;
 // console.log(testRegx.test(testStr));
-//!-----
+//!--------
 //? Match Literal Strings
 // let testStr = "hello my name is Kelvin";
 // let testRegx = /Kelvin/;

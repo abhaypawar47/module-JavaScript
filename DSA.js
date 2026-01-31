@@ -76,4 +76,4 @@ the first is the index at which to begin extraction, and the second is the index
 // }
 // console.log(quickCheck(["squash", "onions", "shallots"], "mushrooms"));
 //!-----
-//? Iterate Through All an Array's Items Using For Loops
+//? Iterate Through All an Array's Items Using For Loops VVV
